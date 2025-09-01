@@ -1,3 +1,4 @@
---granting permission to a user
---grant select, insert, update,delete on student_details to user;
---revoke select on student_details to user;
+granting permission to a user
+grant select, insert, update,delete on student_details to user;
+
+revoke select on student_details to user;
